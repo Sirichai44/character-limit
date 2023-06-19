@@ -1,1 +1,1 @@
-# comment-limit
+# character-limit
